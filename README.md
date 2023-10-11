@@ -20,13 +20,14 @@ The solution to this challenge involved the following key steps:
 
 ## Model Deployment
 
-The Semantic Search tool was deployed on Hugging Face's Spaces platform, making it readily available for users to access. Users can utilize the tool through a web interface by visiting the following URL: [Semantic Search Tool](https://huggingface.co/spaces/hbbhsy/semantic_search).
+The Semantic Search tool was deployed on Hugging Face's Spaces platform, making it readily available for users to access. Users can utilize the tool through a web interface by visiting the following URL: [Semantic Search Tool](https://huggingface.co/spaces/hbbhsy/semantic_search) (The page may take a few minutes to load). <br>
+![demo screenshot](img/demo_screenshot.png)
 
 ## Conclusion
 
 The Semantic Search tool developed for this assignment allows Fetch's users to efficiently search for offers within the app. Users can now find relevant offers by entering keywords related to categories, brands, or retailers. This tool enhances the user experience and ensures that users and Fetch's partners get the most out of the app.
 
-By deploying the tool on Hugging Face's Spaces platform, you have made it accessible and user-friendly. It's a valuable addition to Fetch's services, offering a seamless and intelligent search experience to users.
+By deploying the tool on Huggingface's Spaces platform, you have made it accessible and user-friendly. It's a valuable addition to Fetch's services, offering a seamless and intelligent search experience to users.
 
 ## Future Improvements
 
