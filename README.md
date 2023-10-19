@@ -8,7 +8,7 @@ Fetch's goal is to provide value to its users by enabling them to discover and a
 
 The solution to this challenge involved the following key steps:
 
-1. **Data Preparation:** Two datasets were provided - one containing offers and associated metadata, and the other containing brands and their corresponding categories. These datasets were used to train and build the Semantic Search model.
+1. **Data Preparation:** Three datasets were provided - one containing offers and associated metadata, and the others containing brands and their corresponding categories. These datasets were used to train and build the Semantic Search model.
 
 2. **Semantic Search Model:** A Semantic Search model was employed to find relevant offers based on the user's search input. The model was fine-tuned on the provided datasets to understand the semantic context of offers, brands, and categories.
 
